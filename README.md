@@ -1,2 +1,2 @@
 # portfolio
-Some analytics projects I've done
+Here are some personal projects that I've done
